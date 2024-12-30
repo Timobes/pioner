@@ -48,10 +48,8 @@ a {
 
 /* max-width */
 .m-width {
-    width: 1180px;
+    max-width: 1180px;
     margin: auto;
-
-
 }
 
 /* Header start */
